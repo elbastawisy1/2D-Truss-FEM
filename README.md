@@ -20,3 +20,4 @@ A Python-based solver for 2D truss structures using the Finite Element Method. T
 | 3 | +2.5 × 10⁻⁴ | -8.66 × 10⁻⁴ |
 
 *Equilibrium verified: Sum of vertical reactions = 20 N upward.*
+<img width="744" height="505" alt="image" src="https://github.com/user-attachments/assets/38e29400-5532-4519-88e8-f34f34fcd375" />
